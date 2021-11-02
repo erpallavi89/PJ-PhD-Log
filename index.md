@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Collection of Contrastive and Distillation Network Papers
 
-You can use the [editor on GitHub](https://github.com/erpallavi89/pj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Distillation Networks
+**Bootstrap Your Own Latent - BYOL**   https://arxiv.org/abs/2006.07733  
+**BYOL works even without batch statistics** https://arxiv.org/abs/2010.10241  
+**SimSiam** https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html  
+**DINO** https://arxiv.org/abs/2104.14294
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erpallavi89/pj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Redundancy Reduction Approach
+**Barlow Twins** https://arxiv.org/abs/2103.03230
